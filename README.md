@@ -7,3 +7,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnestsiburian&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=agnestsiburian&style=plastic)
