@@ -8,15 +8,6 @@
 </a>
 
 
-<style>
-    .count-viewer {
-        position: fixed;
-        bottom: 10px; 
-        left: 50%; 
-        transform: translateX(-50%);
-        z-index: 9999; 
-    }
-</style>
 
 <div class="count-viewer">
     <img src="https://komarev.com/ghpvc/?username=agnestsiburian&style=plastic" alt="Code Count Viewer">
