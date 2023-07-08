@@ -1,4 +1,4 @@
-## GitHub Stats
+### GitHub Stats
 
 <a href="https://github.com/agnestsiburian/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agnestsiburian&show_icons=true&theme=dark#gh-dark-mode-only" />
