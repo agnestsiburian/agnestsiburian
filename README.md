@@ -9,7 +9,7 @@
 
 
 
-<div class="count-viewer">
-    <img src="https://komarev.com/ghpvc/?username=agnestsiburian&style=plastic" alt="Code Count Viewer">
+<div style="position: fixed; bottom: 0; right: 0; margin-bottom: 1em; margin-right: 1em;">
+  <img src="https://komarev.com/ghpvc/?username=agnestsiburian&style=plastic" alt="Profile Views" />
 </div>
 
